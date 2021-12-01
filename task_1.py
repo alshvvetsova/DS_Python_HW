@@ -1,4 +1,4 @@
-str = int(input('Vvedite chislo'))
+str = int(input('Vvedite chislo '))
 print (str)
 
 a=5
